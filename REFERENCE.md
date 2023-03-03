@@ -6,3 +6,6 @@
 
 # Dynamic Array
 [DA](https://www.geeksforgeeks.org/implementation-of-dynamic-array-in-python/)
+
+# HashMap - HashTbale
+[HM](https://realpython.com/python-hash-table/#build-a-hash-table-prototype-in-python-with-tdd)
